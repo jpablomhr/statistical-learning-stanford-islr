@@ -1,4 +1,4 @@
-# 📊 Statistical Learning: From Linear Models to Bias–Variance Tradeoff
+# Statistical Learning: From Linear Models to Bias–Variance Tradeoff
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Statsmodels](https://img.shields.io/badge/Library-Statsmodels-orange) ![Status](https://img.shields.io/badge/Status-Active-green)
 
@@ -6,7 +6,7 @@ This repository contains a **practical implementation and in-depth analysis** of
 
 The objective is not only to fit models, but to dissect the **statistical inference** underlying the predictions.
 
-## 🧠 Key Concepts Implemented
+## Key Concepts Implemented
 
 ### 1. Inference in Linear Regression
 Exploration of the relationship between marketing budgets and sales.
@@ -24,12 +24,12 @@ $$
 E[(y - \hat{f}(x))^2] = Var(\hat{f}(x)) + [Bias(\hat{f}(x))]^2 + Var(\epsilon)
 $$
 
-## 🛠️ Technologies
+## Technologies
 - **Python**: NumPy, Pandas.
 - **Statistical Analysis**: Statsmodels (detailed, R-style statistical reports).
 - **Visualization**: Seaborn & Plotly (interactive visualizations).
 
-## 🚀 How to Run
+## How to Run
 ```bash
 git clone https://github.com/your-username/statistical-learning-islr.git
 pip install -r requirements.txt
