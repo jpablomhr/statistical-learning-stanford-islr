@@ -15,7 +15,7 @@ Exploration of the relationship between marketing budgets and sales.
 
 ### 2. Multiple Regression and Collinearity
 Demonstration of how correlation between predictors can mislead a simple model.
-- **3D Visualization:** Least squares hyperplane representation.
+- **Visualization:** Least squares hyperplane representation.
 - **Residual Analysis:** Validation of linear regression assumptions.
 
 ### 3. The Bias–Variance Tradeoff
